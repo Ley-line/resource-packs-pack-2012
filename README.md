@@ -204,6 +204,12 @@ It was about time this pack got some love! To start with, we've put together a b
 - Updated the sprites for various icons in the BANK -folder
 - Updated the sprites for minimap and compass in the RESIZEABLE_MODE -folder
 
+## Todo
+- bank tabs hovered/selected (fixed)
+- volume and brightness sliders shading in the settings
+- revert the achievement diary and kourend favor tab icons
+- fix black outlines on the rivets
+- add the sprite for the clan chat icon present in the game settings
 
 ## Credits:
 
