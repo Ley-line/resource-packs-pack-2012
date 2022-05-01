@@ -1,21 +1,92 @@
-# RESIZABLE:
+# Resizable:
 ![!image](https://i.imgur.com/757lLAa.png)
-# RESIZABLE (SIDE PANELS ON):
+# Resizable (Side panels ON):
 ![!image](https://i.imgur.com/RC2DF6n.png)
-# FIXED:
+# Fixed:
 ![!image](https://i.imgur.com/kB06hn0.png)
 
-# 2012 INTERFACE 3.4 (22-Aug-2020)
+# 2012 INTERFACE 4.0 (1-May-2022)
 
-# IF YOU HAVE ANY QUESTIONS OR FIND ANY ISSUES, PLEASE MESSAGE ME AT DISCORD @Shredit#6109
+# If you have any questions or find any issues, please message Discord @Shredit#6109 or @Leyline#5438
 
-## IMPORTANT:
+## Important:
 
 - When you get poisoned or venomed, your HP icon will reset to vanilla sprites due to a conflict with the "Poison" plugin, to fix this
   simply turn off "Change HP Orb Icon" tab from the plugin.
 - If you prefer using the vanilla spell/prayer icons, you can select so in the resource packs plugin settings.
 
-## Change log:
+## Changelog:
+### 1-May-2022:
+
+It was about time this pack got some love! To start with, we've put together a bunch of additions that are subject to change or to be refined later.
+- Restored several border rivets to be more 2012-like (side panel also changes to this on modern interface mode)
+  - Added small borders (character summary)
+  - Added medium borders (settings)
+  - Fixed the shading of the side panel background (on non-transparent mode)
+- Added new prayer styles
+  - Restored the 2011 prayers
+    - Rigour (Rigour, Dungeoneering)
+    - Augury (Augury, Dungeoneering)
+    - Preserve (Berserker, Ancient Curses)
+  - Restored all 2012 prayers
+    - This is now the default. ***To change this, make a copy of this pack (or download it from git) and simply rename the folder. The 2013 prayers can be found under prayers_2013.***
+- Quest Icons restored and upgraded
+   - Character Summary
+    - Quest List
+    - Achievement Diaries
+    - Kourend Favour
+      - Upgraded all the Arceuus house icons
+    - Minigame
+- A range of icons have been improved to better suit the old style tab sizes
+  - Combat Options
+  - Worn Equipment
+  - Prayer
+  - Regular Spellbook
+    - Improved the lvl-7 enchant icon to better resemble the hydrix colours
+  - Ancient Spellbook
+  - Lunar Spellbook
+  - Arceuus Spellbook (upgraded)
+    - Adjusted the contrast to match the oldschool style of the Arceuus spellbook
+    - All spell icons have also been remade in HD fashion and have been upgraded
+  - A variety of lock icons have been updated
+- Minimap
+  - Improved the contrast on several icons due to the lack of background shade during conversion
+    - Inner heart icon on the hitpoints globe
+    - All three inner run energy globe icons
+    - Inner special attack globe icon
+  - Changed the wiki icon to be more silvery
+  - Enlarged the exit cross to accomodate for an update
+    - *Previously this made the icon blurry, this has somewhat improved visibility*
+  - Adjusted the minimap to accomodate for compass rotation on resizable mode
+  - Upgraded bond pouch icon and border
+- Added several new icons for groups and clans
+  - Group Ironman
+  - Hardcore Group Ironman
+  - Clan channel
+  - Guest clan channel
+  - Minigames / Grouping
+  - Refresh button
+- Upgraded account management
+  - Account, Store, Bonds, Inbox, Name changer
+  - Community, Poll, History, Newspost, Archive icons
+  - Links
+- Upgraded settings
+  - Controls, audio, display
+  - Restored disabled setting icon
+  - Restored new sliders (unfortunately no more dark to bright shades..)
+- Bank
+  - Improved the bank placeholder and search buttons
+    - They are now highlighted orange
+    - *Previously, the contrast between active or inactive was too low, making it unclear whether it was active or not*
+  - Restored the magnifying glass for search functions
+    - Also added a smaller version to the Grand Exchange interface
+- Upgraded favourite and unfavourite icons in the fairy ring interface
+- PvP World and Deadman mode skull icons have been reversed to more clearly identify a dangerous PvP world
+  - PvP worlds are now **red**
+  - Deadman worlds are now **silver**
+- Upgraded make-x interface
+- Added a texture to the red 'click here to play' button in the welcome screen
+
 22-Aug-2020:
 - Fixed sizing on FIXED_MODE corner tabs
 - Remade the thumbs_up and thumbs_down button on the logout screen
@@ -130,10 +201,11 @@ WORLD_MAP_EDGE... (Original sprites are fine and fitting, but could be replaced 
 
 
 ## Credits:
-Jagex for assets
 
-Melkypie for the plugin and assets
+Jagex - Base assets
 
-Bwaaark for helping with sprite cleanup
+Melkypie - Plugin author
 
-Shredit
+Shredit - Author
+
+Leyline - Co-Author
