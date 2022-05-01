@@ -38,6 +38,7 @@
 - Fixed bank tabs hovered and selected icons to be correct
 - Fixed Achievement Diaries and Kourend Favor tab icons to their previous ones
 - Fixed Clan Chat icon in the settings menu
+- Upgraded the 'notes' icon to 'kourend favour' icon for tabs
 
 ###  v4.0 (1-May-2022)
 
