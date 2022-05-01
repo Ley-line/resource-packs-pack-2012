@@ -34,6 +34,7 @@
 ```
 ## v4.1 (X-May-2022)
 
+- Improved corners of the small rivets used in the combat achievement window
 - Updated combat achievements tab icon
 - Restored smaller iron rivets for main interfaces
 - Fixed bank tabs hovered and selected icons to be correct
