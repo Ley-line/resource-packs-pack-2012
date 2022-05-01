@@ -34,6 +34,7 @@
 ```
 ## v4.1 (X-May-2022)
 
+- Restored smaller iron rivets for main interfaces
 - Fixed bank tabs hovered and selected icons to be correct
 - Fixed Achievement Diaries and Kourend Favor tab icons to their previous ones
 - Fixed Clan Chat icon in the settings menu
