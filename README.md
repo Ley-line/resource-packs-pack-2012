@@ -1,22 +1,39 @@
-# Resizable:
-![!image](https://i.imgur.com/757lLAa.png)
-# Resizable (Side panels ON):
-![!image](https://i.imgur.com/RC2DF6n.png)
-# Fixed:
-![!image](https://i.imgur.com/kB06hn0.png)
+# 2012 Interface
+## Latest version: v4.0 (1-May-2022)
 
-# 2012 INTERFACE 4.0 (1-May-2022)
+*If you have any questions or find any issues, please message Discord **@Shredit#6109** or **@Leyline#5438***
 
-# If you have any questions or find any issues, please message Discord @Shredit#6109 or @Leyline#5438
+```diff
+- Whilst Melky is absent, you will have to manually install the pack and follow this short guide. Updating it in-game will not install the latest version 4.0
+! Manually installing this pack will also allow you to customise your preferences such as the different prayer styles included in the pack. If you prefer using the vanilla spell/prayer icons, you can select so in the resource packs plugin settings. 
+```
+## How to install
+1. Install the resource packs plugin for RuneLite found in the [plugin-hub](https://github.com/runelite/runelite/wiki/Information-about-the-Plugin-Hub), or download it [manually](https://github.com/melkypie/resource-packs)
+2. Extract the .zip file you downloaded to a suitable location ***(do not use %userprofile%/.runelite/resource-packs-repository)***
+3. (RuneLite) Configuration > Resource packs > Resource pack path > Set the path to where your resource pack is stored in (without the trailing /) ![!image](https://i.imgur.com/K8iEzgt.png)
+```diff
+- Do not PUT or EDIT your pack in .runelite/resource-packs-repository OR IT WILL GET DELETED.
+```
+4. Make sure your interface styles plugin gameframe is set to the DEFAULT skin (it can cause weird issues otherwise). Everything else is fine but will require a restart of the plugin should you activate any of them after you have resource pack set up.
+5. After you have the path copy and paste it into where the image below has it in. Make sure there is no \ (Windows) or / (Mac, Linux) at the end of it.
+6. Restart the plugin or swap the 'Use resource pack' option to reload the pack
+7. Enjoy!
 
-## Important:
+## Previews
+### Fixed:
+![!image](https://i.imgur.com/nQ0Xca3.png)
+### Resizable:
+![!image](https://i.imgur.com/cx7BOsY.jpeg)
+### Resizable (modern):
+![!image](https://i.imgur.com/bMv9mzz.png)
 
-- When you get poisoned or venomed, your HP icon will reset to vanilla sprites due to a conflict with the "Poison" plugin, to fix this
-  simply turn off "Change HP Orb Icon" tab from the plugin.
-- If you prefer using the vanilla spell/prayer icons, you can select so in the resource packs plugin settings.
+# Changelog:
+## Issues:
+```diff
+- When you get poisoned or venomed, your HP icon will reset to vanilla sprites due to a conflict with the "Poison" plugin, to fix this. Simply turn off "Change HP Orb Icon" tab from the plugin.
+```
 
-## Changelog:
-### 1-May-2022:
+## v4.0 (1-May-2022)
 
 It was about time this pack got some love! To start with, we've put together a bunch of additions that are subject to change or to be refined later.
 - Restored several border rivets to be more 2012-like (side panel also changes to this on modern interface mode)
