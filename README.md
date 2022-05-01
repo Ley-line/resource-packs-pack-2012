@@ -36,6 +36,7 @@
 ## v4.0 (1-May-2022)
 
 It was about time this pack got some love! To start with, we've put together a bunch of additions that are subject to change or to be refined later.
+
 ![!image](https://i.imgur.com/mltug3e.png)
 - Restored several border rivets to be more 2012-like (side panel also changes to this on modern interface mode)
   - Added small borders (character summary)
