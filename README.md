@@ -32,6 +32,11 @@
 ```diff
 - When you get poisoned or venomed, your HP icon will reset to vanilla sprites due to a conflict with the "Poison" plugin, to fix this. Simply turn off "Change HP Orb Icon" tab from the plugin.
 ```
+## v4.1 (X-May-2022)
+
+- Fixed bank tabs hovered and selected icons to be correct
+- Fixed Achivement Diaries and Kouren Favor tab icons to their previous ones
+- Fixed Clan Chat icon in the settings menu
 
 ## v4.0 (1-May-2022)
 
@@ -204,12 +209,20 @@ It was about time this pack got some love! To start with, we've put together a b
 - Updated the sprites for various icons in the BANK -folder
 - Updated the sprites for minimap and compass in the RESIZEABLE_MODE -folder
 
-## Todo
-- bank tabs hovered/selected (fixed)
-- volume and brightness sliders shading in the settings
-- revert the achievement diary and kourend favor tab icons
-- fix black outlines on the rivets
-- add the sprite for the clan chat icon present in the game settings
+
+## Current progress:
+95% completed out of all sprites that can be replaced
+
+## To be done:
+WELCOME_SCREEN:
+(Not much I can do with this, remade a few sprites to give it a bit more matching look though)
+
+
+BUTTON:
+EQUIPMENT_EDGE... (Original sprites are fine and fitting, but could be replaced if wanted)
+WORLD_MAP_EDGE... (Original sprites are fine and fitting, but could be replaced if wanted)
+
+
 
 ## Credits:
 
