@@ -35,7 +35,7 @@
 ## v4.1 (X-May-2022)
 
 - Fixed bank tabs hovered and selected icons to be correct
-- Fixed Achivement Diaries and Kouren Favor tab icons to their previous ones
+- Fixed Achievement Diaries and Kourend Favor tab icons to their previous ones
 - Fixed Clan Chat icon in the settings menu
 
 ## v4.0 (1-May-2022)
