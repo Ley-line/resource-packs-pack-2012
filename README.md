@@ -32,8 +32,12 @@
 ```diff
 - When you get poisoned or venomed, your HP icon will reset to vanilla sprites due to a conflict with the "Poison" plugin, to fix this. Simply turn off "Change HP Orb Icon" tab from the plugin.
 ```
+
+---
 ## v4.1 (2-May-2022)
 
+
+![!image](https://i.imgur.com/fOMlsgb.png)
 - Added highlight for selected tab on side panel
 - Improved corners of the small rivets used in the combat achievement window
 - Updated combat achievements tab icon
@@ -43,7 +47,9 @@
 - Fixed Clan Chat icon in the settings menu
 - Upgraded the 'notes' icon to 'kourend favour' icon for tabs
 
-###  v4.0 (1-May-2022)
+---
+
+## v4.0 (1-May-2022)
 
 It was about time this pack got some love! To start with, we've put together a bunch of additions that are subject to change or to be refined later.
 
@@ -115,12 +121,12 @@ It was about time this pack got some love! To start with, we've put together a b
   - Deadman worlds are now **silver**
 - Upgraded make-x interface
 - Added a texture to the red 'click here to play' button in the welcome screen
-
+---
 ### 22-Aug-2020:
 - Fixed sizing on FIXED_MODE corner tabs
 - Remade the thumbs_up and thumbs_down button on the logout screen
 - Changed some other small stuff
-
+---
 ### 04-Aug-2020:
 - Remade the border framing to match the 2012 look for various interfaces (iron rivets)
 - Changed the Worn Equipment tab icon to match the 2012 one'
@@ -129,7 +135,7 @@ It was about time this pack got some love! To start with, we've put together a b
 - Fixed the chatbox buttons (they were upside down when selected or hovered over)
 - Remade the listing sorting arrows in the OTHER -folder
 - Remade the BANK_PIN buttons
-
+---
 ### 01-Aug-2020:
 - Remade the GE interface
 - Remade the Bank interface
@@ -137,7 +143,7 @@ It was about time this pack got some love! To start with, we've put together a b
 - Remade the FIXED_MODE and RESIZABLE_MODE enabled and disabled buttons in the OPTIONS -folder
 - Changed a few colors in the color.properties file
 - Fixed a weird shadowing on some bank buttons and combat style buttons
-
+---
 ### 26-Jul-2020:
 - Remade the bank tabs
 - Reverted a few sprites to vanilla sprites as they were the same in 2012-13 era
@@ -153,7 +159,7 @@ It was about time this pack got some love! To start with, we've put together a b
 - Added all prayer icons
 - Added all emote icons (except a few ones since they never existed in 2012)
 - Redid the scrollbar icons on the chatbox for the transparent chatbox -mode.
-
+---
 ### 15-Jul-2020 - 19-Jul-2020:
 - Realigned some buttons so they dont overlap with any corners/framing of the interfaces
 - Redid the Hitpoints, Prayer and Run icons on the minimap status orbs
@@ -165,8 +171,7 @@ It was about time this pack got some love! To start with, we've put together a b
 - Remade the quest tab sprites
 - Fixed a missing sprite in the trading screen borders
 - Made the mouse overlay info box colors match with the blueish/darkish color of the inventory
-
-
+---
 ### 13-Jul-2020:
 - Remade the whole FIXED_MODE -folder
 - Remade some sprites in OTHER -folder
@@ -175,7 +180,7 @@ It was about time this pack got some love! To start with, we've put together a b
 - Cleaned all sprites in TAB -folder
 - Fixed the THUMB_SLIDERS for the screen brightness adjustment in OPTIONS -folder
 - Cleaned all sprites in BANK -folder
-
+---
 ### 10-Jul-2020:
 - Updated the chatbox to match the original 2012 look
 - Updated the dialog borders to match the original 2012 look
@@ -187,7 +192,7 @@ It was about time this pack got some love! To start with, we've put together a b
 - Remade the report abuse buttons to match the original 2012 look
 - Cleaned up alot of sprites from TAB and SKILL -folders
 - Cleaned up alot of sprites from OPTIONS -folders
-
+---
 ### 09-Jul-2020:
 - Fixed a problem with a sprite that may have caused weird issues in Grand Exchange interface
 - Fixed a size problem with login screen background
@@ -198,14 +203,14 @@ It was about time this pack got some love! To start with, we've put together a b
 - Fixed naming order for the XP Orbs in the OTHER -folder
 - Cleaned alot of sprites in the COMBAT -folder
 - Added new style for Decorated scrollbars in SCROLLBARS -folder
-
+---
 ### 08-Jul-2020:
 - Updated the sprites for various icons in the OPTIONS -folder
 - Redid the whole tab area for both FIXED_MODE and RESIZEABLE_MODE -folders
 - Cleaned up all the icons used on tabs in the TAB -folder
 - Remade the buttons and framing for Grand Exchange in the GE -folder
 - Updated the minimap for fixed mode in the FIXED_MODE -folder
-
+---
 ### 07-Jul-2020:
 - Updated the sprites for decorated scrollbar in the SCROLLBAR -folder
 - Updated the sprites for various icons in the OPTIONS -folder
@@ -213,7 +218,7 @@ It was about time this pack got some love! To start with, we've put together a b
 - Updated the sprites for various buttons in Worn Equipment screen in BUTTON -folder
 - Updated the sprites for various icons in the BANK -folder
 - Updated the sprites for minimap and compass in the RESIZEABLE_MODE -folder
-
+---
 
 ## Current progress:
 95% completed out of all sprites that can be replaced
