@@ -205,20 +205,6 @@ It was about time this pack got some love! To start with, we've put together a b
 - Updated the sprites for minimap and compass in the RESIZEABLE_MODE -folder
 
 
-## Current progress:
-95% completed out of all sprites that can be replaced
-
-## To be done:
-WELCOME_SCREEN:
-(Not much I can do with this, remade a few sprites to give it a bit more matching look though)
-
-
-BUTTON:
-EQUIPMENT_EDGE... (Original sprites are fine and fitting, but could be replaced if wanted)
-WORLD_MAP_EDGE... (Original sprites are fine and fitting, but could be replaced if wanted)
-
-
-
 ## Credits:
 
 Jagex - Base assets
