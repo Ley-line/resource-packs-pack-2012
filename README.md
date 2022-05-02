@@ -40,6 +40,7 @@
 - Settings sliders have been improved
   - Smoothened out shading
   - Restored the '+' caret on the right side of the sliders
+- The bond pouch background has been restored with the old money pouch background
 
 ---
 
