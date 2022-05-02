@@ -1,5 +1,5 @@
 # 2012 Interface
-## Latest version: v4.2 (X-May-2022)
+## Latest version: v4.3 (2-May-2022)
 
 *If you have any questions or find any issues, please message Discord **@Shredit#6109** or **@Leyline#5438***
 
@@ -35,7 +35,7 @@
 
 ---
 
-## v4.2 (x-May-2022)
+## v4.2 (2-May-2022)
 - Restored HD cross sprites
 - Settings sliders have been improved
   - Smoothened out shading
@@ -45,7 +45,7 @@
 
 ---
 
-## v4.1 (2-May-2022)
+## v4.1 (2-May-2022 midnight)
 
 
 ![!image](https://i.imgur.com/fOMlsgb.png)
