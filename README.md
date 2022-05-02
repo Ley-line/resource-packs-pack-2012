@@ -36,6 +36,7 @@
 ---
 
 ## v4.2 (2-May-2022)
+![!image](https://i.imgur.com/MP8leAj.png)
 - Restored HD cross sprites
 - Settings sliders have been improved
   - Smoothened out shading
