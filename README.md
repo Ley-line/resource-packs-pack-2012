@@ -36,11 +36,12 @@
 ---
 
 ## v4.2 (x-May-2022)
-- Added HD cross sprites
+- Restored HD cross sprites
 - Settings sliders have been improved
   - Smoothened out shading
   - Restored the '+' caret on the right side of the sliders
 - The bond pouch background has been restored with the old money pouch background
+- Added combat achievement icons
 
 ---
 
