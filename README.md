@@ -36,6 +36,7 @@
 ---
 
 ## v4.2 (x-May-2022)
+- Added HD cross sprites
 
 ---
 
