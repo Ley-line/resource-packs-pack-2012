@@ -37,6 +37,9 @@
 
 ## v4.2 (x-May-2022)
 - Added HD cross sprites
+- Settings sliders have been improved
+  - Smoothened out shading
+  - Restored the '+' caret on the right side of the sliders
 
 ---
 
