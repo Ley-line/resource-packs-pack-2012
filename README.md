@@ -1,5 +1,5 @@
 # 2012 Interface
-## Latest version: v4.3 (x-May-2022)
+## Latest version: v4.3 (4-May-2022)
 
 *If you have any questions or find any issues, please message Discord **@Shredit#6109** or **@Leyline#5438***
 
@@ -35,7 +35,7 @@
 
 ---
 
-## v4.3 (3-May-2022)
+## v4.3 (4-May-2022)
 ![!image](https://i.imgur.com/5KILROG.png)
 - Bank
   - Saarch icon has been moved slightly
