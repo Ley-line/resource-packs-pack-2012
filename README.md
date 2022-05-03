@@ -38,6 +38,7 @@
 ## v4.3 (3-May-2022)
 - Bank search icon has been moved slightly to accomodate for the music player
   - Before it was cut off slightly
+- Upgraded several arrow buttons
 
 ---
 
