@@ -47,6 +47,7 @@
   - Combat achievements interface buttons
 - Inverted the shading on the 'thumbs up' and 'thumbs down' icons on the logout menu
   - It is now more clear when you hover over them
+- Slightly improved the contrast on running icons
 ---
 
 ## v4.2 (2-May-2022)
