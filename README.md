@@ -38,11 +38,10 @@
 ## v4.3 (3-May-2022)
 ![!image](https://i.imgur.com/5KILROG.png)
 - Bank
-  - Bank search icon has been moved slightly
+  - Saarch icon has been moved slightly
   - Changed out the smaller magnifying glass for the GE and music player interface search functions
-  - Improved the alias and colouring on the bank shuffle icon
-- Other
-- Upgraded several osrs buttons to the 2012 style
+  - Improved the alias and colouring on the bank shuffle icon in the group ironman bank interface
+- Several osrs buttons have been upgraded to the 2012 style
   - Several buttons throughout the interface such as equipment
   - Left/right arrows
   - Combat achievements interface buttons
