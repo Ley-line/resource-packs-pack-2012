@@ -1,5 +1,5 @@
 # 2012 Interface
-## Latest version: v4.3 (2-May-2022)
+## Latest version: v4.3 (x-May-2022)
 
 *If you have any questions or find any issues, please message Discord **@Shredit#6109** or **@Leyline#5438***
 
@@ -32,6 +32,12 @@
 ```diff
 - When you get poisoned or venomed, your HP icon will reset to vanilla sprites due to a conflict with the "Poison" plugin, to fix this. Simply turn off "Change HP Orb Icon" tab from the plugin.
 ```
+
+---
+
+## v4.3 (3-May-2022)
+- Bank search icon has been moved slightly to accomodate for the music player
+  - Before it was cut off slightly
 
 ---
 
