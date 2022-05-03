@@ -36,11 +36,13 @@
 ---
 
 ## v4.3 (3-May-2022)
-- Bank search icon has been moved slightly
-- Changed out the smaller magnifying glass for the GE and music player interface search functions
-- Upgraded several arrow buttons
-- Upgraded menu buttons
-
+- Bank
+  - Bank search icon has been moved slightly
+  - Changed out the smaller magnifying glass for the GE and music player interface search functions
+  - Improved the alias and colouring on the bank shuffle icon
+- Other
+  - Upgraded several arrow buttons
+  - Upgraded menu buttons for combat achievement interface
 ---
 
 ## v4.2 (2-May-2022)
