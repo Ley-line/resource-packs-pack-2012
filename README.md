@@ -36,8 +36,8 @@
 ---
 
 ## v4.3 (3-May-2022)
-- Bank search icon has been moved slightly to accomodate for the music player
-  - Before it was cut off slightly
+- Bank search icon has been moved slightly
+- Changed out the smaller magnifying glass for the GE and music player interface search functions
 - Upgraded several arrow buttons
 - Upgraded menu buttons
 
