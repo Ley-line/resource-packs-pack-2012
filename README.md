@@ -38,9 +38,10 @@
 ![!image](https://i.imgur.com/TvVA5di.png)
 - Upgraded the following (oldschool) specific emotes to custom ones
   - Hypermobile drinker
-  - Jog
   - Sit-up
+  - Push-up
   - Star jump
+  - Jog
   - Premier shield
 - Restored the following emotes
   - Crazy dance (Troubadour dance)
