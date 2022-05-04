@@ -43,9 +43,12 @@
   - Star jump
   - Jog
   - Premier shield
+  - Trailblazer
+  - Uri transform
 - Restored the following emotes
   - Crazy dance (Troubadour dance)
   - Flex (Muscle-man Pose)
+  - Smooth dance
 - Inverted panic and cry icons
 
 ## v4.3 (4-May-2022)
