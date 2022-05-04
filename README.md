@@ -36,13 +36,15 @@
 
 ## v4.4 (x-may-2022)
 ![!image](https://i.imgur.com/TvVA5di.png)
-- Upgraded the following (oldschool) specific emotes
-  - Crazy dance
-  - Flex
+- Upgraded the following (oldschool) specific emotes to custom ones
   - Hypermobile drinker
   - Jog
   - Sit-up
   - Star jump
+  - Premier shield
+- Restored the following emotes
+  - Crazy dance (Troubadour dance)
+  - Flex (Muscle-man Pose)
 - Inverted panic and cry icons
 
 ## v4.3 (4-May-2022)
