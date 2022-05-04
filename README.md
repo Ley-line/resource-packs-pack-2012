@@ -36,20 +36,25 @@
 
 ## v4.4 (x-may-2022)
 ![!image](https://i.imgur.com/TvVA5di.png)
-- Upgraded the following (oldschool) specific emotes to custom ones
-  - Hypermobile drinker
-  - Sit-up
-  - Push-up
-  - Star jump
-  - Jog
-  - Premier shield
-  - Trailblazer
-  - Uri transform
-- Restored the following emotes
-  - Crazy dance (Troubadour dance)
-  - Flex (Muscle-man Pose)
-  - Smooth dance
-- Inverted panic and cry icons
+![!image](https://i.imgur.com/klVPALp.png)
+- Improved all emotes except for the penguin suit
+  - Upgraded the following (oldschool) specific emotes to custom ones
+    - Hypermobile drinker
+    - Sit-up
+    - Push-up
+    - Star jump
+    - Jog
+    - Premier shield
+    - Relic unlock
+    - Relic unlock trailblazer
+    - Uri transform
+  - Restored the following emotes
+    - Crazy dance (Troubadour dance)
+    - Flex (Muscle-man Pose)
+    - Smooth dance
+  - Improved 20 locked emote icons
+    - Restored the real colours that were lost during alpha conversion
+  - Inverted panic and cry icons
 
 ## v4.3 (4-May-2022)
 ![!image](https://i.imgur.com/5KILROG.png)
