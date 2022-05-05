@@ -35,8 +35,7 @@
 
 
 ## v4.4 (5-may-2022)
-![!image](https://i.imgur.com/KH4fmfq.png)
-![!image](https://i.imgur.com/klVPALp.png)
+![!image](https://i.imgur.com/KH4fmfq.png) ![!image](https://i.imgur.com/klVPALp.png)
 - Improved all emotes except for the penguin suit
   - Upgraded the following (oldschool) specific emotes to custom ones
     - Hypermobile drinker
