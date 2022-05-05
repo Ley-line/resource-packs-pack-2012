@@ -1,5 +1,5 @@
 # 2012 Interface
-## Latest version: v4.4 (x-May-2022)
+## Latest version: v4.4 (5-May-2022)
 
 *If you have any questions or find any issues, please message Discord **@Shredit#6109** or **@Leyline#5438***
 
@@ -34,8 +34,8 @@
 ```
 
 
-## v4.4 (x-may-2022)
-![!image](https://i.imgur.com/TvVA5di.png)
+## v4.4 (5-may-2022)
+![!image](https://i.imgur.com/KH4fmfq.png)
 ![!image](https://i.imgur.com/klVPALp.png)
 - Improved all emotes except for the penguin suit
   - Upgraded the following (oldschool) specific emotes to custom ones
