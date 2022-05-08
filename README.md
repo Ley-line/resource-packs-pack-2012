@@ -36,6 +36,7 @@
 - Removed some random pixels on the disabled boost potion icon on the lunar spellbook
 - The shading on the selected buttons in the combat options interface has been improved
 - Removed unused images
+- Upgraded progress bars in the combat achievements interface
 
 ## v4.4 (5-may-2022)
 ![!image](https://i.imgur.com/KH4fmfq.png) ![!image](https://i.imgur.com/klVPALp.png)
