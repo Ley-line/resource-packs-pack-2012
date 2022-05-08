@@ -1,13 +1,12 @@
 # 2012 Interface
-## Latest version: v4.4 (5-May-2022)
+## Latest version: v4.5 (x-May-2022)
 
 *If you have any questions or find any issues, please message Discord **@Shredit#6109** or **@Leyline#5438***
 
 ```diff
-- Whilst Melky is absent, you will have to manually install the pack and follow this short guide. Updating it in-game will not install the latest version 4.0
-! Manually installing this pack will also allow you to customise your preferences such as the different prayer styles included in the pack. If you prefer using the vanilla spell/prayer icons, you can select so in the resource packs plugin settings. 
+! This plugin can be installed automatically by using the in-game resource packs hub. Manually installing this pack however, will also allow you to customise your preferences such as the different prayer styles included in the pack. If you prefer using the vanilla spell/prayer icons, you can select so in the resource packs plugin settings.
 ```
-## How to install
+## How to install manually
 1. Install the resource packs plugin for RuneLite found in the [plugin-hub](https://github.com/runelite/runelite/wiki/Information-about-the-Plugin-Hub), or download it [manually](https://github.com/melkypie/resource-packs)
 2. Extract the .zip file you downloaded to a suitable location ***(do not use %userprofile%/.runelite/resource-packs-repository)***
 3. (RuneLite) Configuration > Resource packs > Resource pack path > Set the path to where your resource pack is stored in (without the trailing /) ![!image](https://i.imgur.com/K8iEzgt.png)
@@ -33,6 +32,7 @@
 - When you get poisoned or venomed, your HP icon will reset to vanilla sprites due to a conflict with the "Poison" plugin, to fix this. Simply turn off "Change HP Orb Icon" tab from the plugin.
 ```
 
+## v4.5 (x-may-2022)
 
 ## v4.4 (5-may-2022)
 ![!image](https://i.imgur.com/KH4fmfq.png) ![!image](https://i.imgur.com/klVPALp.png)
