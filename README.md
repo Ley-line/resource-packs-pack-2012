@@ -35,6 +35,7 @@
 ## v4.5 (x-may-2022)
 - Removed some random pixels on the disabled boost potion icon on the lunar spellbook
 - The shading on the selected buttons in the combat options interface has been improved
+- Removed unused images
 
 ## v4.4 (5-may-2022)
 ![!image](https://i.imgur.com/KH4fmfq.png) ![!image](https://i.imgur.com/klVPALp.png)
