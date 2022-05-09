@@ -1,5 +1,5 @@
 # 2012 Interface
-## Latest version: v4.5 (9-May-2022)
+## Latest version: v4.6 (unreleased)
 
 *If you have any questions or find any issues, please message Discord **@Shredit#6109** or **@Leyline#5438***
 
@@ -31,6 +31,9 @@
 ```diff
 - When you get poisoned or venomed, your HP icon will reset to vanilla sprites due to a conflict with the "Poison" plugin, to fix this. Simply turn off "Change HP Orb Icon" tab from the plugin.
 ```
+## v4.6 (unreleased)
+![!image](https://i.imgur.com/GCwSEeP.png)
+- Upgraded a variety of checkboxes
 
 ## v4.5 (9-may-2022)
 - Upgraded progress bars in the combat achievements interface
