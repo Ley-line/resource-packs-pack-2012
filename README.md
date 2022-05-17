@@ -33,7 +33,8 @@
 ```
 ## v4.6 (unreleased)
 ![!image](https://i.imgur.com/GCwSEeP.png)
-- Upgraded a variety of checkboxes
+- Upgraded a variety of checkboxes to the 2012 styles
+- Improved the true colours of the quick-prayer selection checkboxes
 
 ## v4.5 (9-may-2022)
 - Upgraded progress bars in the combat achievements interface
