@@ -41,6 +41,7 @@
 ## v4.8 (13-6-2022)
 ![!image](https://i.imgur.com/fcAXPmz.png)
 - Removed an unnecessary file
+- Updated the pack preview image with the updated skilling icons
 - Updated interface previews
 - Appended the customizable xp drop settings to the readme
   - This plugin now supports the resource packs plugin! Custom skilling icons will now show next to your XP drops provided the setting is enabled.
