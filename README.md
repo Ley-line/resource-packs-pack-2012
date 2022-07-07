@@ -42,7 +42,9 @@
 ## v4.9 (7-7-2022)
 ![!image](https://i.imgur.com/cyr6y0I.gif)
 - Added a missing pixel on the minimap compass
-- 
+- Upgraded the bank interface tabs and buttons
+
+ *Same story as mentioned in v4.8. These have now been upgraded with custom sprites to reflect the 2012 interface style*
 
 ## v4.8 (13-6-2022)
 ![!image](https://i.imgur.com/fcAXPmz.png)
