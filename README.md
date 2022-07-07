@@ -22,7 +22,7 @@
 ### Fixed:
 ![!image](https://i.imgur.com/IEZbhN4.png)
 ### Resizable:
-![!image](https://i.imgur.com/gpilfbb.png)
+![!image](https://i.imgur.com/fmMulqF.png)
 ### Resizable (modern):
 ![!image](https://i.imgur.com/1c1gL3e.png)
 
