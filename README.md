@@ -51,6 +51,8 @@
   - Added **varlamore teleport**
   - Added **teleport boat** variants
 - **World switcher** icons: seasonal, special, speedrunning
+- Created new misc icons:
+  - "Upgrade now!"
 ### Changed
 - Improved **minimap orbs**
   - *Prayer now aligns better with the prayer plugin that causes it to flash*
