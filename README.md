@@ -54,6 +54,7 @@
 - Created new misc icons:
   - "Upgrade now!"
   - Arrows (bond pouch)
+  - Various Welcome screen sprites
 ### Changed
 - Improved **minimap orbs**
   - *Prayer now aligns better with the prayer plugin that causes it to flash*
