@@ -44,9 +44,13 @@
 - Added the **total level** background sprites (changed with sailing)
 - Added new stat tabs (fixes regressed stat sprites)
 - Added **sailing** sprite (modified version based on the HD sprite by `Maximax`)
-- Added hdos custom sprites
+- Added **HDOS** sprites
+  - Created new sidebar arrow in `hdos/`
+  - Added **minigame teleport**
+  - Added **monster examine**
+  - Added **varlamore teleport**
+  - Added **teleport boat** variants
 - **World switcher** icons: seasonal, special, speedrunning
-- Added **minigame teleport**
 ### Changed
 - Improved **minimap orbs**
   - *Prayer now aligns better with the prayer plugin that causes it to flash*
