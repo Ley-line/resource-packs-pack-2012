@@ -40,13 +40,16 @@
 ```
 
 ## v5.0 (18-3-2026)
+### Added
+- Added the **total level** background sprites (changed with sailing)
+### Fixed
 ![!image](https://i.imgur.com/cyr6y0I.gif)
-- Thanks to `J3` for cleaning up some misaligned sprites!
+- Thanks to `J3` for cleaning up some **misaligned sprites**!
   - About 14 sprites have been adjusted slightly
   - Added a cleaner version for the minimap in fixed mode, which can be found in `hdos/fixed_mode_noborder/`
     - *For now, it was decided to ship this as an optional addition, rather than a replacement patch*
-- Fixed the total level stats sprites (changed with sailing)
-
+- **Tabs**
+  - Fixed the position of 7 tab sprites (such as prayer, combat options and inventory)
 
 ## v4.9 (7-7-2022)
 ![!image](https://i.imgur.com/cyr6y0I.gif)
