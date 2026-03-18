@@ -42,6 +42,8 @@
 ## v5.0 (18-3-2026)
 ### Added
 - Added the **total level** background sprites (changed with sailing)
+- Added new stat tabs (fixes regressed stat sprites)
+- Added **sailing** sprite
 ### Fixed
 ![!image](https://i.imgur.com/cyr6y0I.gif)
 - Thanks to `J3` for cleaning up some **misaligned sprites**!
