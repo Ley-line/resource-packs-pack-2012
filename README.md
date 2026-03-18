@@ -44,6 +44,11 @@
 - Added the **total level** background sprites (changed with sailing)
 - Added new stat tabs (fixes regressed stat sprites)
 - Added **sailing** sprite
+- Added hdos custom sprites
+### Changed
+- Improved **minimap orbs**
+  - *Prayer now aligns better with the prayer plugin that causes it to flash*
+  - Added flashing variant
 ### Fixed
 ![!image](https://i.imgur.com/cyr6y0I.gif)
 - Thanks to `J3` for cleaning up some **misaligned sprites**!
