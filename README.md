@@ -43,7 +43,7 @@
 ### Added
 - Added the **total level** background sprites (changed with sailing)
 - Added new stat tabs (fixes regressed stat sprites)
-- Added **sailing** sprite
+- Added **sailing** sprite (modified version based on the HD sprite by `Maximax`)
 - Added hdos custom sprites
 - **World switcher** icons: seasonal, special, speedrunning
 ### Changed
