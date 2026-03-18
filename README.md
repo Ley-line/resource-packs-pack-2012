@@ -39,6 +39,15 @@
 - When you get poisoned or venomed, your HP icon will reset to vanilla sprites due to a conflict with the "Poison" plugin, to fix this. Simply turn off "Change HP Orb Icon" tab from the plugin.
 ```
 
+## v5.0 (18-3-2026)
+![!image](https://i.imgur.com/cyr6y0I.gif)
+- Thanks to `J3` for cleaning up some misaligned sprites!
+  - About 14 sprites have been adjusted slightly
+  - Added a cleaner version for the minimap in fixed mode, which can be found in `hdos/fixed_mode_noborder/`
+    - *For now, it was decided to ship this as an optional addition, rather than a replacement patch*
+- 
+
+
 ## v4.9 (7-7-2022)
 ![!image](https://i.imgur.com/cyr6y0I.gif)
 - Added a missing pixel on the minimap compass
