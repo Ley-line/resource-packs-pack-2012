@@ -53,6 +53,7 @@
 - **World switcher** icons: seasonal, special, speedrunning
 - Created new misc icons:
   - "Upgrade now!"
+  - Arrows (bond pouch)
 ### Changed
 - Improved **minimap orbs**
   - *Prayer now aligns better with the prayer plugin that causes it to flash*
