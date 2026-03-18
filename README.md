@@ -45,6 +45,7 @@
 - Added new stat tabs (fixes regressed stat sprites)
 - Added **sailing** sprite
 - Added hdos custom sprites
+- **World switcher** icons: seasonal, special, speedrunning
 ### Changed
 - Improved **minimap orbs**
   - *Prayer now aligns better with the prayer plugin that causes it to flash*
