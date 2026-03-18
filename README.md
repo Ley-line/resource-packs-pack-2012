@@ -1,7 +1,7 @@
 # 2012 Interface
 ## Latest version: v4.9 (7-7-2022)
 
-*If you have any questions or find any issues, please message Discord **@Shredit#6109** or **@Leyline#5438***
+*If you have any questions or find any issues, please message Discord **shredit** or **leyline***
 
 ```diff
 ! This plugin can be installed automatically by using the in-game resource packs hub. Manually installing this pack however, will also allow you to customise your preferences such as the different prayer styles included in the pack. If you prefer using the vanilla spell/prayer icons, you can select so in the resource packs plugin settings.
@@ -46,6 +46,7 @@
 - Added **sailing** sprite (modified version based on the HD sprite by `Maximax`)
 - Added hdos custom sprites
 - **World switcher** icons: seasonal, special, speedrunning
+- Added **minigame teleport**
 ### Changed
 - Improved **minimap orbs**
   - *Prayer now aligns better with the prayer plugin that causes it to flash*
@@ -358,6 +359,8 @@ Melkypie - Plugin author
 
 Shredit - Author
 
-Leyline - Co-Author
+Leyline - Co-Author and creator of HDOS sprites
 
 Zweeper - Providing base for (unselected) bank tab
+
+J3 - Minor fixes
