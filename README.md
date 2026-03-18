@@ -45,7 +45,7 @@
 - Added new stat tabs (fixes regressed stat sprites)
 - Added **sailing** sprite (modified version based on the HD sprite by `Maximax`)
 - Added **HDOS** sprites
-  - Created new sidebar arrow in `hdos/`
+  - Created new sidebar arrow and dock/undock button sprites in `hdos/`
   - Added **minigame teleport**
   - Added **monster examine**
   - Added **varlamore teleport**
