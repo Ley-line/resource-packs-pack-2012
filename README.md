@@ -52,6 +52,7 @@
   - *Prayer now aligns better with the prayer plugin that causes it to flash*
   - Added flashing variant
   - Improved contrast on orb icons
+- Changed some borders to be more faithful to the old style (less thick)
 ### Fixed
 ![!image](https://i.imgur.com/cyr6y0I.gif)
 - Thanks to `J3` for cleaning up some **misaligned sprites**!
