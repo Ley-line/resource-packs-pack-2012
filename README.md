@@ -62,7 +62,6 @@
   - Improved contrast on orb icons
 - Changed some borders to be more faithful to the old style (less thick)
 ### Fixed
-![!image](https://i.imgur.com/cyr6y0I.gif)
 - Thanks to `J3` for cleaning up some **misaligned sprites**!
   - About 14 sprites have been adjusted slightly
   - Added a cleaner version for the minimap in fixed mode, which can be found in `hdos/fixed_mode_noborder/`
