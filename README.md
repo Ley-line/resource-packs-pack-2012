@@ -45,7 +45,7 @@
   - About 14 sprites have been adjusted slightly
   - Added a cleaner version for the minimap in fixed mode, which can be found in `hdos/fixed_mode_noborder/`
     - *For now, it was decided to ship this as an optional addition, rather than a replacement patch*
-- 
+- Fixed the total level stats sprites (changed with sailing)
 
 
 ## v4.9 (7-7-2022)
