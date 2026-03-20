@@ -43,6 +43,9 @@
 ### Added
 - Added missing sprite intended for v5.0
   - Added dock/undock sprite
+### Changed
+- Default prayers now use Oldschool sprites instead, so that they are more faithful to 2012
+  - *If you would like to re-enable them, simply rename `prayer_beta` to `prayer`*
 
 ## v5.0 (18-3-2026)
 ### Added
